@@ -1,0 +1,14 @@
+{
+  "etudiant": {
+    "informations_complementaires": {
+      "domaine_etudes": "Informatique",
+      "niveau_etudes": "Master 1"
+    }
+  },
+  "chercheur": {
+    "informations_complementaires": {
+      "domaine_etudes": "Biologie",
+      "niveau_etudes": "Doctorat / PhD"
+    }
+  }
+}
